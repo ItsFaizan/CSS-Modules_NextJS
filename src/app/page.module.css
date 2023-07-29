@@ -1,0 +1,16 @@
+.btn{
+  background-color: black;
+  font-size: 100px;
+  color: white;
+  margin-left: 35%;
+}
+
+.title{
+  font-size: 100px;
+  font-weight: bold;
+  color: black;
+}
+
+.span{
+  color: white;
+}
